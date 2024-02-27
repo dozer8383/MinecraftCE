@@ -1,4 +1,5 @@
 # MinecraftCE
+![Minecraft: TI-84 Plus CE Edition logo](./logo.png)
 ![Minecraft CE screenshot](./titlescreen.png) ![Minecraft CE screenshot](./cesiumicon.png)
 ![Minecraft CE screenshot](./gameplay1.png) ![Minecraft CE screenshot](./gameplay2.png)
 ![Minecraft CE screenshot](./image.png)
