@@ -13,10 +13,10 @@ Not all of these goals have been achieved yet, but the majority are easily done 
 ## About the Two-Layer System
 If you've ever played Terraria, then this is basically it. It gives you the ability to place blocks on a background (which you can pass by) or on a foreground (which blocks you). This means that you could have a back wall to your house or be able to see the ores on the side of a cave.
 ## How to Play/Controls
-2nd - Select in menus, break blocks
-alpha - Build blocks
-mode - Open/close inventory
-stat - Move cursor upwards
-prgm - Move cursor downwards
-arrow buttons - Move player (left/right), jump (up)
-f1-f5 - Hotbar slots
+- <kbd>2nd</kbd> - Select in menus, break blocks
+- <kbd>alpha</kbd> - Build blocks
+- <kbd>mode</kbd> - Open/close inventory
+- <kbd>stat</kbd> - Move cursor upwards
+- <kbd>prgm</kbd> - Move cursor downwards
+- arrow buttons - Move player (left/right), jump (up)
+- <kbd>f1</kbd>-<kbd>f5</kbd> - Hotbar slots
