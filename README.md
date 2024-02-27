@@ -1,4 +1,4 @@
-# Minecraft: TI-84 Plus CE
+# Minecraft: TI-84 Plus CE Edition
 ![Minecraft: TI-84 Plus CE Edition logo](./mclogo.png)
 ![Minecraft CE screenshot](./titlescreen.png) ![Minecraft CE screenshot](./cesiumicon.png)
 ![Minecraft CE screenshot](./gameplay1.png) ![Minecraft CE screenshot](./gameplay2.png)
