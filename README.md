@@ -1,6 +1,7 @@
 # MinecraftCE
 ![Minecraft CE screenshot](./titlescreen.png) ![Minecraft CE screenshot](./cesiumicon.png)
 ![Minecraft CE screenshot](./gameplay1.png) ![Minecraft CE screenshot](./gameplay2.png)
+![Minecraft CE screenshot](./image.png)
 ###### Note: screenshots may be outdated
 ###### Oh, and also don't look too hard at how far Steve sinks into the ground
 ## The definitive port of Minecraft to the TI-84 Plus CE.
